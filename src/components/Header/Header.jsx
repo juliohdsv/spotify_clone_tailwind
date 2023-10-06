@@ -5,7 +5,7 @@ export default function Header(){
         <div className="container-header flex fixed bg-black w-full px-3 md:px-20 py-4">
             <div className="container flex items-center mx-auto">
                 <div>
-                    <a href="#"className="hover:text-hoverspt text-sm">
+                    <a href="#" className="hover:text-hoverspt text-sm">
                         <img src="img/spotify-logo.png" alt="Logospotify" className="w-20 md:w-125px"/>
                     </a>
                 </div>
