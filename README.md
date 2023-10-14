@@ -5,4 +5,3 @@ In the project directory, you can run:
 
 install all dependencies
 ### `npm` or `yarn`
-
